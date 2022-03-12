@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655601076054",
+    "project_id": "thesocial-ffa11",
+    "storage_bucket": "thesocial-ffa11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655601076054:android:75f474301c3fd45fccb8f7",
+        "android_client_info": {
+          "package_name": "com.example.thesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655601076054-r356ibfjn91eq967946pbhnoj53laeiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyRwlWJiuWcAOgKNrrjXTt7HBzMoZops"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655601076054-r356ibfjn91eq967946pbhnoj53laeiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
